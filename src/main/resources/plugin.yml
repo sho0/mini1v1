@@ -1,0 +1,5 @@
+name: Mini1v1
+version: ${project.version}
+main: man10.red.mini1v1.Mini1v1
+authors: [Sho0]
+description: mini1v1 plugin
